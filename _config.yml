@@ -3,16 +3,16 @@
 #
 
 # Name of your site (displayed in the header)
-name: Reverie
+name: "MLDPR @ ICLR 2025"
 
 # Name of the author
-author: Amit Merchant
+author: Markelle Kelly
 
 # Short bio or description (displayed in the header)
-description: An elegant Jekyll theme
+description: Workshop on the Future of Machine Learning Data Practices and Repositories
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/reverie.png
+avatar: /images/mldpr.png
 
 #
 # Flags below are optional
@@ -21,15 +21,15 @@ avatar: /images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: amit.d.merchant@gmail.com
+  email: kmarke@uci.edu
   facebook:
   flickr:
-  github: amitmerchant1990/reverie
+  github: 
   instagram:
   linkedin: 
   pinterest:
-  rss: rss
-  twitter: amit_merchant
+  rss: 
+  twitter:
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -41,7 +41,7 @@ footer-links:
 disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-43339302-11
+google_analytics: 
 
 # For newer "GA4" analytics, use the following instead of the "UA" entry above
 #google_analytics_ga4: G-GABC1DEFG
@@ -90,7 +90,7 @@ plugins:
 include: ['_pages']
 
 paginate: 6
-paginate_path: /page:num/
+paginate_path: "/news/:num/"
 
 # Exclude these files from your production _site
 exclude:

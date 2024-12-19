@@ -1,49 +1,16 @@
 ---
-layout: default
+layout: page
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-    <article class="post">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        <h1>{{ post.title }}</h1>
+<h1>About MLDPR</h1>
+<p>Datasets are a central pillar of machine learning (ML) research—from pretraining to evaluation and benchmarking. 
+    However, a growing body of work highlights serious issues throughout the ML data ecosystem, including the under-valuing of data work, ethical issues in datasets that go undiscovered, a lack of standardized dataset deprecation procedures, the (mis)use of datasets out-of-context, an overemphasis on single metrics rather than holistic model evaluation, and the overuse of the same few benchmark datasets. 
+    Thus, developing guidelines, goals, and standards for data practices is critical; beyond this, many researchers have pointed to a need for a more fundamental culture shift surrounding data and benchmarking in ML. </p>
 
-        <div>
-          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
-        </div>
-      </a>
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+<p>This workshop aims to facilitate a broad conversation about the impact of machine learning datasets on research, practice, and education—working to identify current issues,
+     propose new techniques, and establish best practices throughout the ML dataset lifecycle. In particular, we highlight the role of machine learning data repositories—administrators
+      of machine learning data repositories, including OpenML, HuggingFace Datasets, and the UCI ML Repository, will contribute their perspective on how ML datasets are created, documented,
+       and used and discuss the practical challenges of implementing and enforcing best practices on their platforms. By involving representatives from three major ML repositories and
+        influential researchers from ML, law, governance, and the social sciences, our intent is that this workshop can serve as a catalyst for real positive changes to the ML data ecosystem. </p>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-
-  <!-- pagination -->
-  {% if paginator.total_pages > 1 %}
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-    {% else %}
-      <span>&laquo; Prev</span>
-    {% endif %}
-
-    {% for page in (1..paginator.total_pages) %}
-      {% if page == paginator.page %}
-        <span class="webjeda">{{ page }}</span>
-      {% elsif page == 1 %}
-        <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-      {% else %}
-        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-      {% endif %}
-    {% endfor %}
-
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-    {% else %}
-      <span>Next &raquo;</span>
-    {% endif %}
-  </div>
-  {% endif %}
-</div>
+<p><b>This workshop is part of the <a href="https://iclr.cc/">International Conference on Learning Representations (ICLR)</a>, which will be held from April 24-28, 2025 in Singapore.</b></p>
