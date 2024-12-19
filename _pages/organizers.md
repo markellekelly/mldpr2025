@@ -4,6 +4,8 @@ title: Organizers
 permalink: /organizers/
 ---
 
+<p>For any questions regarding the workshop please contact us at <a href="mailto:mldpr2025@gmail.com">mldpr2025@gmail.com</a></p>
+
 <div class="cards">
 {% for item in site.data.organizers.organizers %}
   <article class="card">

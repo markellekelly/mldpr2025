@@ -441,16 +441,23 @@ body:after {
     content: '';
 }
 
-#bar {
-    background: #000;
-    height: 7px;
-    background-size: cover;
-    background-position: left 60%;
-    position: fixed;
+.bar {
+  background: indigo;
+  height: 7px;
+  background-size: cover;
+  background-position: left 60%;
+  position: fixed;
+  width: 100%;
+  overflow: hidden;
+  z-index: 1000;
+}
+
+#bar-top {
     top: 0;
-    width: 100%;
-    overflow: hidden;
-    z-index: 1000;
+}
+
+#bar-bottom {
+  bottom: 0;
 }
 
 .post h1{
