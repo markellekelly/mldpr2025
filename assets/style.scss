@@ -182,11 +182,11 @@ span[data-pullquote]:before {
 }
 
 a {
-  color: $blue;
+  color: indigo;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: black;
   }
 }
 
@@ -352,14 +352,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: indigo;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: indigo;
     }
   }
 }
@@ -1224,6 +1224,8 @@ Modules - reusable parts of our design
   color: indigo;
   font-weight: bold;
 }
+
+
 
 @media screen and (max-width: 600px) {
   .flexbox{
