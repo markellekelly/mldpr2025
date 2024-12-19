@@ -5,7 +5,7 @@ organizers:
   website: "https://markellekelly.com"}
 - {name: 'Rachel Longjohn',
   affiliation: "University of California, Irvine",
-  img: "/images/longjohn.jpg,
+  img: "/images/longjohn.jpg",
   website: "https://rlongjohn.github.io/"}
 - {name: 'Meera Desai',
   affiliation: "University of Michigan",
