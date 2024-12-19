@@ -1180,6 +1180,7 @@ Modules - reusable parts of our design
   width: 100px;
   height: 100px;
   margin: auto;
+  border-radius: 3px;
 }
 
 .card h2 {
@@ -1200,4 +1201,39 @@ Modules - reusable parts of our design
 
 .card p {
   font-size: 15px;
+}
+
+.flexbox {
+  display: flex;
+}
+.infobox {
+  flex: 0 0 350px;
+  background-color: lavender;
+  margin-right:20px;
+  padding:10px;
+  height:350px;
+  border-radius:4px;
+  margin-top:70px;
+}
+
+.mainbox {
+  flex: 1;
+}
+
+.purple {
+  color: indigo;
+  font-weight: bold;
+}
+
+@media screen and (max-width: 600px) {
+  .flexbox{
+    flex-direction: column;
+  }
+  .infobox {
+    width: 100%;
+    margin:0;
+  }
+  .mainbox {
+    width: 100%;
+  }
 }
