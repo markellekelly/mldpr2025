@@ -1185,8 +1185,8 @@ Modules - reusable parts of our design
 
 .card h2 {
   margin: 0;
-  padding: 0.5rem;
-  font-size: 17px;
+  padding: 0.2rem;
+  font-size: 19px;
 }
 
 .card .content {
@@ -1201,6 +1201,7 @@ Modules - reusable parts of our design
 
 .card p {
   font-size: 15px;
+  margin: 5px 0;
 }
 
 .flexbox {
@@ -1210,7 +1211,7 @@ Modules - reusable parts of our design
   flex: 0 0 350px;
   background-color: lavender;
   margin-right:20px;
-  padding:10px;
+  padding:20px;
   height:350px;
   border-radius:4px;
   margin-top:70px;

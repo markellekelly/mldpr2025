@@ -4,7 +4,7 @@ title: Schedule & Speakers
 permalink: /schedule/
 ---
 
-The following is the tentative schedule planned for the workshop. The schedule will be finalized closer to the workshop date.
+The following is the tentative schedule planned for the workshop. Note that the provided times and speaker list are subject to change. A finalized schedule will be posted closer to the workshop date.
 
 <table>
     <tbody>
@@ -58,3 +58,30 @@ The following is the tentative schedule planned for the workshop. The schedule w
         </tr>
     </tbody>
 </table>
+
+<h2>Speaker List</h2>
+<p><b>Block 1: ML Benchmarking & Evaluation</b></p>
+<ul>
+<li><b>Jennifer Wortman Vaughan</b>, Senior Principal Researcher at Microsoft Research</li>
+<li><b>Isabelle Guyon, Director</b>, Research Scientist at Google DeepMind; Professor at the Université Paris-Saclay</li>
+<li><b>Ce Zhang</b>, Associate Professor at the University of Chicago</li>
+</ul>
+<p><b>Block 2: Data Curation & Provenance</b></p>
+<ul>
+<li><b>Razvan Amironesei</b>, Social Scientist at NIST</li>
+<li><b>Jerone Andrews</b>, AI Research Scientist at Sony AI</li>
+<li><b>Shayne Longpre</b>, Ph.D. candidate at MIT; Lead of the Data Provenance Initiative</li>
+</ul>
+<p><b>Block 3: Law, Governance, & Policy</b></p>
+<ul>
+<li><b>Jason Schultz</b>, Professor of Clinical Law at NYU; director of NYU's Technology Law &
+Policy Clinic</li>
+<li><b>Irene Pasquetto</b>, Assistant Professor at the University of
+Maryland; Senior Research Fellow and Senior Editor at the Shorenstein Center on
+Media, Politics, and Public Policy </li>
+</ul>
+<p><b>Block 4: Repositories</b></p>
+<ul>
+<li><b>Pieter Gijsbers</b>, AI Engineer for OpenML; Eindhoven University of Technology </li>
+<li><b>Lucie Aimee-Kaffee</b>, Applied Policy Researcher at HuggingFace </li>
+</ul>

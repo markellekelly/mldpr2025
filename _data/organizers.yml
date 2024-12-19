@@ -9,36 +9,36 @@ organizers:
   website: "https://rlongjohn.github.io/"}
 - {name: 'Meera Desai',
   affiliation: "University of Michigan",
-  img: "https://mdn.github.io/shared-assets/images/examples/balloons.jpg",
+  img: "/images/desai.jpg",
   website: "https://meera-desai.com/"}
 - {name: 'Shivani Kapania',
   affiliation: "Carnegie Mellon University",
-  img: "https://mdn.github.io/shared-assets/images/examples/balloons.jpg",
+  img: "/images/kapania.jpg",
   website: "https://www.shivanikapania.com/"}
 - {name: 'Maria Antoniak',
   affiliation: "University of Copenhagen",
-  img: "https://mdn.github.io/shared-assets/images/examples/balloons.jpg",
+  img: "/images/antoniak.avif",
   website: "https://maria-antoniak.github.io/"}
 - {name: 'Padhraic Smyth',
   affiliation: "University of California, Irvine",
-  img: "https://mdn.github.io/shared-assets/images/examples/balloons.jpg",
+  img: "/images/smyth.jpeg",
   website: "https://ics.uci.edu/~smyth/index.html"}
 
 
 advisors:
 - {name: 'Sameer Singh',
   affiliation: "University of California, Irvine",
-  img: "https://mdn.github.io/shared-assets/images/examples/balloons.jpg",
+  img: "/images/singh.jpg",
   website: "https://sameersingh.org/"}
 - {name: 'Joaquin Vanschoren',
   affiliation: "Eindhoven University of Technology",
-  img: "https://mdn.github.io/shared-assets/images/examples/balloons.jpg",
+  img: "/images/vanschoren.jpeg",
   website: "https://joaquinvanschoren.github.io/home/"}
 - {name: 'Amy Winecoff',
   affiliation: "Center for Democracy & Technology",
-  img: "https://mdn.github.io/shared-assets/images/examples/balloons.jpg",
+  img: "/images/winecoff.jpg",
   website: "https://cdt.org/staff/amy-winecoff/"}
 - {name: 'Daniel S. Katz',
   affiliation: "University of Illinois Urbana-Champaign",
-  img: "https://mdn.github.io/shared-assets/images/examples/balloons.jpg",
+  img: "/images/katz.png",
   website: "https://danielskatz.org/"}
