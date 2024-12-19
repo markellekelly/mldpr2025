@@ -1,0 +1,44 @@
+organizers:
+- {name: 'Markelle Kelly',
+  affiliation: "University of California, Irvine",
+  img: "/images/kelly.jpg",
+  website: "https://markellekelly.com"}
+- {name: 'Rachel Longjohn',
+  affiliation: "University of California, Irvine",
+  img: "https://mdn.github.io/shared-assets/images/examples/balloons.jpg",
+  website: ""}
+- {name: 'Meera Desai',
+  affiliation: "University of Michigan",
+  img: "https://mdn.github.io/shared-assets/images/examples/balloons.jpg",
+  website: ""}
+- {name: 'Shivani Kapania',
+  affiliation: "Carnegie Mellon University",
+  img: "https://mdn.github.io/shared-assets/images/examples/balloons.jpg",
+  website: ""}
+- {name: 'Maria Antoniak',
+  affiliation: "University of Copenhagen",
+  img: "https://mdn.github.io/shared-assets/images/examples/balloons.jpg",
+  website: ""}
+- {name: 'Padhraic Smyth',
+  affiliation: "University of California, Irvine",
+  img: "https://mdn.github.io/shared-assets/images/examples/balloons.jpg",
+  website: ""}
+
+
+advisors:
+- {name: 'Sameer Singh',
+  affiliation: "University of California, Irvine",
+  img: "https://mdn.github.io/shared-assets/images/examples/balloons.jpg",
+  website: ""}
+- {name: 'Joaquin Vanschoren',
+  affiliation: "Eindhoven University of Technology",
+  img: "https://mdn.github.io/shared-assets/images/examples/balloons.jpg",
+  website: ""}
+- {name: 'Amy Winecoff',
+  affiliation: "Center for Democracy & Technology",
+  img: "https://mdn.github.io/shared-assets/images/examples/balloons.jpg",
+  website: ""}
+- {name: 'Daniel S. Katz',
+  affiliation: "University of Illinois Urbana-Champaign",
+  img: "https://mdn.github.io/shared-assets/images/examples/balloons.jpg",
+  website: ""}
