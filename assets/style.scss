@@ -415,7 +415,7 @@ nav {
 }
 
 .wrapper-main {
-  padding-bottom: 134px;
+  padding-bottom: 75px;
 }
 
 .wrapper-footer {
@@ -1239,4 +1239,20 @@ Modules - reusable parts of our design
   .mainbox {
     width: 100%;
   }
+}
+
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: gray;
+  padding: 10px;
+}
+.footer-logo {
+  max-width: 75px;
+}
+.footer p {
+  font-size: 14px;
+  line-height: 1.5;
 }
