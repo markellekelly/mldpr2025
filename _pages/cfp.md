@@ -24,6 +24,6 @@ We invite submissions of any length about the role of data practices in machine 
 <li> Non-traditional/alternative benchmarking paradigms</li>
 </ul>
 
-The submission page will be available (and linked here) in early January 2025. Submissions will be <b>due February 3, 2025 AoE</b> and decisions will be released by March 5, 2025 AoE.
+Submissions can be made on our <a href="https://openreview.net/group?id=ICLR.cc/2025/Workshop/MLDPR">OpenReview homepage</a>. Submissions are <b>due February 3, 2025 AoE</b> and decisions will be released by March 5, 2025 AoE.
 
 This is a nonarchival venue with no proceedings. Workshop submissions can be subsequently or concurrently submitted to other venues. Accepted submissions will be shared on the workshop website; only accepted submissions will be made public. 
