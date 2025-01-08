@@ -26,7 +26,7 @@ The following is the tentative schedule planned for the workshop. Note that the 
         </tr>
         <tr>
             <td>11:35am - 12:30pm</td>
-            <td>Poster Clusters</td>
+            <td>Poster Clusters: Session 1</td>
         </tr>
         <tr>
             <td>12:30pm - 01:30pm</td>
@@ -50,11 +50,7 @@ The following is the tentative schedule planned for the workshop. Note that the 
         </tr>
         <tr>
             <td>04:00pm - 05:00pm</td>
-            <td>Roundtable & Panel Discussion</td>
-        </tr>
-        <tr>
-            <td>05:00pm - 05:15pm</td>
-            <td>Closing Remarks</td>
+            <td>Poster Clusters: Session 2</td>
         </tr>
     </tbody>
 </table>
