@@ -65,7 +65,7 @@ The following is the tentative schedule planned for the workshop. Note that the 
 <p><b>Block 2: Data Curation & Provenance</b></p>
 <ul>
 <li><b>Razvan Amironesei</b>, Social Scientist at NIST</li>
-<li><b>Jerone Andrews</b>, AI Research Scientist at Sony AI</li>
+<li><b>Jerone Andrews</b>, Senior Research Scientist at Sony AI</li>
 <li><b>Shayne Longpre</b>, Ph.D. candidate at MIT; Lead of the Data Provenance Initiative</li>
 </ul>
 <p><b>Block 3: Law, Governance, & Policy</b></p>
